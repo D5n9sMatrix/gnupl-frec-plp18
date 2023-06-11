@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-frec.a CMakeFiles/gnupl-frec.dir/gnupl-frec.cpp.o
+/usr/bin/ranlib libgnupl-frec.a
